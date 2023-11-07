@@ -22,7 +22,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 </p>
 
-<h3 align="center">Contactame:</h3> 
+<h2 align="center">Contactame</h2>
+
+![200w](https://github.com/Paitopoveda90/Paitopoveda90/assets/121766472/bd01a849-5b09-47d7-8659-61d0351e3b2b)
+
+
+
 <p align="center">
 <a href="https://linkedin.com/in/sandra-paola-poveda-marulanda-11285083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra paola poveda" height="30" width="40" /></a> <a href="mailto:sppoveda90@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="correo" height="30" width="40" /></a>
 </p>
